@@ -1,14 +1,636 @@
-/* This is a style document*/
+/* Page home */
 
-body{ 
+position: relative;
 width: 1450px;
 height: 2390px;
-}
 
-body{
 background: #F5F1EA;
-}
-.list-styl{
 
-color:225
-}
+
+/* foother */
+
+position: absolute;
+width: 1450px;
+height: 242px;
+left: 0px;
+top: 2157px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 1450px;
+height: 242px;
+left: 0px;
+top: 2157px;
+
+background: #404231;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 165.14px;
+height: 47px;
+left: 142.99px;
+top: 2270px;
+
+border: 1px solid #9D8974;
+border-radius: 20px;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 158.09px;
+height: 47px;
+left: 354.44px;
+top: 2270px;
+
+border: 1px solid #9D8974;
+border-radius: 20px;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 237.64px;
+height: 47px;
+left: 559.86px;
+top: 2270px;
+
+border: 1px solid #9D8974;
+border-radius: 20px;
+
+
+/* Home */
+
+position: absolute;
+width: 117.81px;
+height: 47px;
+left: 165.14px;
+top: 2270px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* contact */
+
+position: absolute;
+width: 190.31px;
+height: 47px;
+left: 583.02px;
+top: 2270px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* Art */
+
+position: absolute;
+width: 82.57px;
+height: 47px;
+left: 391.7px;
+top: 2270px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* image 6 */
+
+position: absolute;
+width: 252.74px;
+height: 227px;
+left: 1009px;
+top: 2172px;
+
+background: url(image);
+
+
+/* evets */
+
+position: absolute;
+width: 1332px;
+height: 599px;
+left: 64px;
+top: 1496px;
+
+
+
+/* still-life-5483235_1280 1 */
+
+position: absolute;
+width: 396px;
+height: 382px;
+left: 64px;
+top: 1599px;
+
+background: url(still-life-5483235_1280.jpg);
+
+
+/* Prochains événements */
+
+position: absolute;
+width: 830px;
+height: 76px;
+left: 64px;
+top: 1496px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 76px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* art-1659450_1280 1 */
+
+position: absolute;
+width: 396px;
+height: 382px;
+left: 522px;
+top: 1599px;
+
+background: url(art-1659450_1280.jpg);
+
+
+/* image 3 */
+
+position: absolute;
+width: 396px;
+height: 382px;
+left: 980px;
+top: 1599px;
+
+background: url(image.png);
+
+
+/* event-texte */
+
+position: absolute;
+width: 1300px;
+height: 84px;
+left: 96px;
+top: 2011px;
+
+
+
+/* event-texte */
+
+position: absolute;
+width: 315px;
+height: 42px;
+left: 96px;
+top: 2013px;
+
+
+
+/* Soirée art et vin */
+
+position: absolute;
+width: 315px;
+height: 42px;
+left: 96px;
+top: 2013px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* event-texte */
+
+position: absolute;
+width: 333px;
+height: 82px;
+left: 564px;
+top: 2013px;
+
+
+
+/* nuit en galerie */
+
+position: absolute;
+width: 294px;
+height: 42px;
+left: 580px;
+top: 2013px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* 12 âout 2024 à 20:00 */
+
+position: absolute;
+width: 333px;
+height: 42px;
+left: 564px;
+top: 2053px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* event-texte */
+
+position: absolute;
+width: 435px;
+height: 84px;
+left: 961px;
+top: 2011px;
+
+
+
+/* Art numérique */
+
+position: absolute;
+width: 288px;
+height: 42px;
+left: 1040px;
+top: 2011px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* 20 décembre 2024 à 20:00 */
+
+position: absolute;
+width: 435px;
+height: 42px;
+left: 961px;
+top: 2053px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* 14 juin 2024 à 20:00 */
+
+position: absolute;
+width: 312px;
+height: 42px;
+left: 104px;
+top: 2050px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* photo principale */
+
+position: absolute;
+width: 1332px;
+height: 586px;
+left: 59px;
+top: 216px;
+
+
+
+/* paris-1448209_1280 1 */
+
+position: absolute;
+width: 1332px;
+height: 586px;
+left: 59px;
+top: 216px;
+
+background: url(paris-1448209_1280.jpg);
+
+
+/* 10 RUE DE LA REPUBLIQUE */
+
+position: absolute;
+width: 353.97px;
+height: 30.43px;
+left: 85.14px;
+top: 702.86px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* galerie DEDAL DES COULEURS */
+
+position: absolute;
+width: 505px;
+height: 38px;
+left: 87px;
+top: 666px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* 75000 PARIS */
+
+position: absolute;
+width: 154.66px;
+height: 30.43px;
+left: 87.32px;
+top: 740.16px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Histoire de galerie */
+
+position: absolute;
+width: 1297px;
+height: 620px;
+left: 64px;
+top: 845px;
+
+
+
+/* L’histoire de notre galerie */
+
+position: absolute;
+width: 1032px;
+height: 66.13px;
+left: 64px;
+top: 845px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 71px;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #404231;
+
+
+
+/* Mr Paul DECHEWSKY est un passionné d’Art depuis toujours. Dès son plus jeune âge il a travaillé dans des milieux artistiques, absorbés par la diversité de ses couleurs. Il a parcouru de nombreux pays à la recherche d'œuvres, d’artistes, de galeries et d’expositions.  Ses dernières années, son vœu de réunir ses œuvres et artistes favoris dans sa propre galerie est devenue possible quand il a acquis un merveilleux local 10 rue de la République à Paris.  L’histoire de la Galerie Dedal Des Couleurs ne fait que commencer, ce seront les visiteurs qui en écriront les prochains chapitres.     */
+
+position: absolute;
+width: 817px;
+height: 458px;
+left: 544px;
+top: 971px;
+
+font-family: 'Lusitana';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 42px;
+text-align: justify;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* image 4 */
+
+position: absolute;
+width: 452.22px;
+height: 530.1px;
+left: 64px;
+top: 934.9px;
+
+background: url(image.png);
+
+
+/* header */
+
+position: absolute;
+width: 1450px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 143px;
+height: 40px;
+left: 1156px;
+top: 71px;
+
+background: #404232;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1450px;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: #9D8974;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 164px;
+height: 47px;
+left: 1137px;
+top: 67px;
+
+background: #404232;
+border-radius: 20px;
+
+
+/* Log in */
+
+position: absolute;
+width: 105px;
+height: 38px;
+left: 1167px;
+top: 71px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* Home */
+
+position: absolute;
+width: 94px;
+height: 38px;
+left: 660px;
+top: 73px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* contact */
+
+position: absolute;
+width: 152px;
+height: 38px;
+left: 937px;
+top: 71px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* Art */
+
+position: absolute;
+width: 65px;
+height: 38px;
+left: 813px;
+top: 71px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #F4E5CA;
+
+
+
+/* image 5 */
+
+position: absolute;
+width: 197px;
+height: 150px;
+left: 148px;
+top: 17px;
+
+background: url(image);
