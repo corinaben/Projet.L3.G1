@@ -1,5 +1,13 @@
 /* This is a style document*/
 
+body{ 
+width: 1450px;
+height: 2390px;
+}
+
+body{
+background: #F5F1EA;
+}
 .list-styl{
 
 color:225
