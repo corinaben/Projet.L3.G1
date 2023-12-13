@@ -59,3 +59,52 @@ nav ul a{
 .titre .inner-text h2{
     margin-top: 5px;
 }
+
+/* index2 */
+
+.page-contenue{
+    margin: 40px 0;
+}
+
+.page-contenue .artist{
+    padding: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.page-contenue .artist:nth-child(even){
+    background-color: #c0b6ab;
+}
+
+.page-contenue .artist h3{
+    font-size: 2.8em;
+    margin: 10px;
+    color: #404231;
+    text-transform: uppercase;
+}
+
+.page-contenue .artist .flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-contenue .artist .flex-box .tableau{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page-contenue .artist .flex-box .tableau img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.page-contenue .artist .flex-box .tableau p{
+    margin: 0;
+    padding: 0;
+    color: #404231;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: larger;
+}
