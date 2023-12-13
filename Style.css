@@ -1,3 +1,10 @@
+/* index */
+
+body{
+    font-family: 'Rubik';
+}
+
+
 #menu{
     display: flex;
     justify-content: space-between;
@@ -7,8 +14,11 @@
 }
 
 .wrapper{
-    width: 980px;
+    width: 1100px;
     margin: auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: #F5F1EA;
+    padding: 0 50px;
 }
 
 header a img{
@@ -26,6 +36,12 @@ nav ul{
 nav{
     display: flex;
     align-items: center;
+}
+
+nav ul li{
+    padding: 5px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 nav ul a{
@@ -58,6 +74,85 @@ nav ul a{
 
 .titre .inner-text h2{
     margin-top: 5px;
+}
+
+.bloc_histoire_de_notre_galerie h1, .prochain_evenements h1{
+    font-size: 3.5em;
+    margin: 10px;
+    color: #404231;
+    text-transform: uppercase;
+}
+
+.bloc_histoire_de_notre_galerie .histoire{
+    display: flex;
+
+}
+
+
+.bloc_histoire_de_notre_galerie .histoire img{
+    width: 40%;
+}
+
+.bloc_histoire_de_notre_galerie .histoire p{
+    font-size: 2em;
+    padding: 0 10px;
+    margin: 10px;
+    text-align:justify;
+}
+
+.prochain_evenements .events-photo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.prochain_evenements .events-photo > .box{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prochain_evenements .box img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.prochain_evenements .box p{
+    color: #404231;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: larger;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #404231;
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+}
+
+footer img{
+    width: 150px;
+}
+
+footer nav{
+    flex: 1;
+}
+
+footer nav ul{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer nav a{
+    border: solid 1px #9D8974;
+    padding: 5px 15px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 /* index2 */
