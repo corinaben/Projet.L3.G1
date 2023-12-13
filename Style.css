@@ -408,4 +408,46 @@ conexion form input[type=text]{
         width: 100%;
     }
 
-    /* index2 */
+   /* index2 */
+
+    .page-contenue .artist h3{
+        text-align: center;
+        font-size: 2.5em;
+    }
+
+    .page-contenue .artist .flex-box{
+        flex-direction: column;
+    }
+
+    .page-contenue .artist .flex-box .tableau{
+        margin: auto;
+        width: 60%;
+        margin-bottom: 40px;
+    }
+
+    /* contact */
+
+    #info h1{
+        font-size: 3em;
+    }
+
+    #info .details-form{
+        flex-direction: column;
+    }
+
+    #info .details-form .details{
+        border-right: none;
+        width: 100%;
+    }
+
+    #info .details-form form{
+        width: 100%;
+        padding: 0;
+    }
+
+    #info .socials{
+        width: 80%;
+        justify-content: space-evenly;
+    }
+
+}
